@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Theeban Kumaresan!
 - 👀 I’m interested in Web and App Development
+- 💻 I'm a Software Developer Co-op at Syntronic Canada
 - 🌱 I’m currently in my fourth year of the Computer Engineering program at the University of Ottawa
 - 📫 How to reach me: tkuma082@uottawa.ca
 
