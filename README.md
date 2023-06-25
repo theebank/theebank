@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web and App Development
 - 💻 I've had exciting internships at companies like Syntronic and ISED Canada
 - 🌱 I just recently graduated from the University of Ottawa with a degree in Computer Engineering!
-- 📫 How to reach me: tkuma082@uottawa.ca
+- 📫 How to reach me: kumaresantheeban8@gmail.com
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theebank)](https://github.com/anuraghazra/github-readme-stats)
