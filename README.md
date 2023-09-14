@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=theebank)
+
 - 👋 Hi, I’m Theeban Kumaresan!
 - 👀 I’m interested in Web and App Development
 - 💻 I've had exciting internships at companies like Syntronic and ISED Canada
