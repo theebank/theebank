@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Theeban Kumaresan!
-- 👀 I’m interested in Web and App Development as well as Embedded Systems!
+- 👀 I'm interested in Hardware Engineering, Embedded Systems and Web/App Development!
+- 🏫 I'm a MEng in Electrical and Computer Engineering candidate at the University of Toronto and just recently graduated from the University of Ottawa with a degree in Computer Engineering!
 - 💻 I've had exciting internships at companies like Syntronic and ISED Canada
-- 🌱 I just recently graduated from the University of Ottawa with a degree in Computer Engineering!
 - 📫 How to reach me: kumaresantheeban8@gmail.com\
 - You can find out more at: https://theebank.github.io/ ! 
 <!---
